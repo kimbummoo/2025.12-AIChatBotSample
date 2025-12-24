@@ -16,7 +16,7 @@ export default function CrocodilePage() {
       }}
     >
       <iframe
-        src="/Convai%20Page/index.html?content=crocodile"
+        src="/ConvaiPage/index.html?content=crocodile"
         title="Convai Page"
         style={{
           width: "100vw",

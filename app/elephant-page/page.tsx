@@ -16,7 +16,7 @@ export default function ElephantPage() {
       }}
     >
       <iframe
-        src="/Convai%20Page/index.html?content=elephant"
+        src="/ConvaiPage/index.html?content=elephant"
         title="Convai Page"
         style={{
           width: "100vw",

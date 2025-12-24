@@ -16,7 +16,7 @@ export default function OrcaPage() {
       }}
     >
       <iframe
-        src="/Convai%20Page/index.html?content=orca"
+        src="/ConvaiPage/index.html?content=orca"
         title="Convai Page"
         style={{
           width: "100vw",

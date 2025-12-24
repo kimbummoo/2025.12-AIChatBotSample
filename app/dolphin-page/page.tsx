@@ -16,7 +16,7 @@ export default function DolphinPage() {
       }}
     >
       <iframe
-        src="/Convai%20Page/index.html?content=dolphin"
+        src="/ConvaiPage/index.html?content=dolphin"
         title="Convai Page"
         style={{
           width: "100vw",
