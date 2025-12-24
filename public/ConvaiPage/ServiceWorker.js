@@ -1,9 +1,9 @@
 const cacheName = "ConvAI-ConvAIWebGL-2.1.0";
 const contentToCache = [
     "Build/Convai Page.loader.js",
-    "Build/Convai Page.framework.js.br",
-    "Build/Convai Page.data.br",
-    "Build/Convai Page.wasm.br",
+    "Build/Convai Page.framework.js",
+    "Build/Convai Page.data",
+    "Build/Convai Page.wasm",
     "TemplateData/style.css"
 
 ];
